@@ -9,4 +9,7 @@ Meu nome é Juan santos
  ### Você pode entrar em contato comigo 📫 
 
  rodrigues.juan.santos@gmail.com
+
  @Juan_santos341
+
+![](https://media.tenor.com/MQ_1wXzGcHIAAAAM/school-book.gif)
