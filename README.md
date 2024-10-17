@@ -2,7 +2,7 @@
 
 Meu nome é Juan santos 
 
-- Estou estudando na Alura
+- Estou estudando na [Alura](https://www.alura.com.br)
 - Estou estudando a linguagem python e java script 
 - Vou utilizar esse espaço para expor meus projetos desenvolvidos
 
